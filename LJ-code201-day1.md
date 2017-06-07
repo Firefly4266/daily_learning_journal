@@ -1,4 +1,4 @@
-# LJ-code201-day1.md
+# LJ code 201 - day 01
 
 ## Entry 1
 
