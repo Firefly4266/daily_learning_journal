@@ -1,6 +1,6 @@
-# LJ code 301 - assignment 7
+# LJ code 301 - assignment 8
 
-## Entry Class #07
+## Entry Class #08
 
 
 20 July 2017
